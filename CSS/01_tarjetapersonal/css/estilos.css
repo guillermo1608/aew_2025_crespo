@@ -32,15 +32,11 @@ p {
 }
 
 .perfil {
-    width: 200px;
+    width: 700px;
     border-width: 6px;
     border-style: solid;
-    border-color: yellow;
+    border-color:black;
     margin: 0;
-}
-
-.borde-redondeado {
-    border-radius: 150px;
 }
 
 #foto-perfil {
